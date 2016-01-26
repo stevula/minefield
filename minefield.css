@@ -1,0 +1,107 @@
+.left {
+  display: inline-block;
+  width: 25em;
+}
+
+table {
+  background-color: gray;
+  border: 2px solid black;
+  border-radius: 5%;
+  display: inline-block;
+  padding: 5px;
+}
+
+.difficulty {
+  text-align: left;
+  width: 25em;
+}
+
+input {
+  margin: 0.5em;
+}
+
+.reset {
+  position: relative;
+  bottom: 2.5em;
+  left: 8em;
+}
+
+.directions {
+  display: inline-block;
+  padding: 2em;
+  vertical-align: top;
+  width: 25em;
+}
+
+.counter {
+  background: black;
+  color: lime;
+  font-family: "Courier New";
+  margin: 0.5em auto;
+  text-align: center;
+  width: 15rem;
+}
+
+.cell {
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 5%;
+  color: transparent;
+  font-size: 4em;
+  font-family: Courier;
+  font-weight: bold;
+  height: 5rem;
+  text-align: center;
+  width: 5rem;
+}
+
+.revealed {
+  background-color: white;
+}
+
+.unfound {
+  color: yellow;
+}
+
+.marked {
+  background-color: red;
+}
+
+.mine {
+  color: red;
+}
+
+.zero {
+  color: #909090; /* gray */
+}
+.one {
+  color: blue;
+}
+
+.two {
+  color: green;
+}
+
+.three {
+  color: teal;
+}
+
+.four {
+  color: purple;
+}
+
+.five {
+  color: salmon;
+}
+
+.six {
+  color: fuchsia;
+}
+
+.seven {
+  color: orange;
+}
+
+.eight {
+  color: pink;
+}
