@@ -1,2 +1,2 @@
 # minefield
-A mine-clearing game built in vanilla JavaScript. I built this during my first week of learning JavaScript.
+A mine-clearing game built in vanilla JavaScript. My first JS app ever.
